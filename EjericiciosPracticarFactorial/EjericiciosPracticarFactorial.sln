@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjericiciosPracticarFactorial", "EjericiciosPracticarFactorial\EjericiciosPracticarFactorial.csproj", "{393BB2E3-6D03-4284-BD23-4296D0D84786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjericioGuiaSHARPrecorrer", "EjericioGuiaSHARPrecorrer\EjericioGuiaSHARPrecorrer.csproj", "{91EC6A77-59BB-4110-ACCC-5F266DEB0F6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjericicioGuiaSharpRecorrerFor", "EjericicioGuiaSharpRecorrerFor\EjericicioGuiaSharpRecorrerFor.csproj", "{15320A1F-017F-407C-A082-7984EC11AA59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiaEjericiciosSharpPares", "GuiaEjericiciosSharpPares\GuiaEjericiciosSharpPares.csproj", "{AD44A417-3F7F-4CAE-9E8B-8C74A476E79A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiaEjericicioDivisible3", "GuiaEjericicioDivisible3\GuiaEjericicioDivisible3.csproj", "{95EBBC2D-19B9-4B1B-9066-687DB19F7CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393BB2E3-6D03-4284-BD23-4296D0D84786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393BB2E3-6D03-4284-BD23-4296D0D84786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393BB2E3-6D03-4284-BD23-4296D0D84786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393BB2E3-6D03-4284-BD23-4296D0D84786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91EC6A77-59BB-4110-ACCC-5F266DEB0F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EC6A77-59BB-4110-ACCC-5F266DEB0F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EC6A77-59BB-4110-ACCC-5F266DEB0F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EC6A77-59BB-4110-ACCC-5F266DEB0F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15320A1F-017F-407C-A082-7984EC11AA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15320A1F-017F-407C-A082-7984EC11AA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15320A1F-017F-407C-A082-7984EC11AA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15320A1F-017F-407C-A082-7984EC11AA59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD44A417-3F7F-4CAE-9E8B-8C74A476E79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD44A417-3F7F-4CAE-9E8B-8C74A476E79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD44A417-3F7F-4CAE-9E8B-8C74A476E79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD44A417-3F7F-4CAE-9E8B-8C74A476E79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95EBBC2D-19B9-4B1B-9066-687DB19F7CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EBBC2D-19B9-4B1B-9066-687DB19F7CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EBBC2D-19B9-4B1B-9066-687DB19F7CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EBBC2D-19B9-4B1B-9066-687DB19F7CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C02B5F00-3D6C-44E5-8A2A-2404D00DD182}
+	EndGlobalSection
+EndGlobal

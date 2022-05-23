@@ -1,0 +1,7 @@
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\EjericioGuiaSHARPrecorrer\bin\Debug\EjericioGuiaSHARPrecorrer.exe.config
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\EjericioGuiaSHARPrecorrer\bin\Debug\EjericioGuiaSHARPrecorrer.exe
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\EjericioGuiaSHARPrecorrer\bin\Debug\EjericioGuiaSHARPrecorrer.pdb
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\EjericioGuiaSHARPrecorrer\obj\Debug\EjericioGuiaSHARPrecorrer.csproj.AssemblyReference.cache
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\EjericioGuiaSHARPrecorrer\obj\Debug\EjericioGuiaSHARPrecorrer.csproj.CoreCompileInputs.cache
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\EjericioGuiaSHARPrecorrer\obj\Debug\EjericioGuiaSHARPrecorrer.exe
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\EjericioGuiaSHARPrecorrer\obj\Debug\EjericioGuiaSHARPrecorrer.pdb

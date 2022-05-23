@@ -1,0 +1,6 @@
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\GuiaEjericicioDivisible3\bin\Debug\GuiaEjericicioDivisible3.exe.config
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\GuiaEjericicioDivisible3\bin\Debug\GuiaEjericicioDivisible3.exe
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\GuiaEjericicioDivisible3\bin\Debug\GuiaEjericicioDivisible3.pdb
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\GuiaEjericicioDivisible3\obj\Debug\GuiaEjericicioDivisible3.csproj.CoreCompileInputs.cache
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\GuiaEjericicioDivisible3\obj\Debug\GuiaEjericicioDivisible3.exe
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\GuiaEjericicioDivisible3\obj\Debug\GuiaEjericicioDivisible3.pdb

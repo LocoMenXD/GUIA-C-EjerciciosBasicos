@@ -1,0 +1,7 @@
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\GuiaEjericiciosSharpPares\bin\Debug\GuiaEjericiciosSharpPares.exe.config
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\GuiaEjericiciosSharpPares\bin\Debug\GuiaEjericiciosSharpPares.exe
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\GuiaEjericiciosSharpPares\bin\Debug\GuiaEjericiciosSharpPares.pdb
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\GuiaEjericiciosSharpPares\obj\Debug\GuiaEjericiciosSharpPares.csproj.CoreCompileInputs.cache
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\GuiaEjericiciosSharpPares\obj\Debug\GuiaEjericiciosSharpPares.exe
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\GuiaEjericiciosSharpPares\obj\Debug\GuiaEjericiciosSharpPares.pdb
+C:\Users\NakamaElLocoManXD\source\repos\EjericiciosPracticarFactorial\GuiaEjericiciosSharpPares\obj\Debug\GuiaEjericiciosSharpPares.csproj.AssemblyReference.cache
